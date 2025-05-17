@@ -1,0 +1,10 @@
+input_file = "C:/CancerProteinResearch/Research Files/6b8y.pdb"
+output_file = "C:/CancerProteinResearch/Research Files/6B8Y_clean.pdb"
+
+with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+    for line in infile:
+        # Skip lines containing the D0A ligand
+        if " D0A " not in line:
+            outfile.write(line)
+
+print(f"Saved cleaned PDB file to {output_file}")

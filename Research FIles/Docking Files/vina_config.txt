@@ -1,0 +1,13 @@
+receptor = 6B8Y_prepared.pdbqt
+ligand = galunisertib.pdbqt
+
+center_x = 20.335
+center_y = 24.572
+center_z = 52.789
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = galunisertib_out.pdbqt
+log = galunisertib_log.txt

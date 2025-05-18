@@ -15,3 +15,6 @@ The goal of this project is to identify potential inhibitors of the TGF-β recep
 5. **Dock Ligands** *(next step)*: Ligand preparation and docking via AutoDock Vina
 
 > Hata, A., et al. (2018). Structure of TGF-β receptor I in complex with small-molecule inhibitor. *PDB ID: 6B8Y*, RCSB Protein Data Bank.
+
+
+![spinningproteingif](https://github.com/user-attachments/assets/c2cdf605-0c01-43c9-9aaa-c7c2893d7df7)

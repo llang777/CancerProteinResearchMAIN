@@ -16,5 +16,4 @@ The goal of this project is to identify potential inhibitors of the TGF-β recep
 
 > Hata, A., et al. (2018). Structure of TGF-β receptor I in complex with small-molecule inhibitor. *PDB ID: 6B8Y*, RCSB Protein Data Bank.
 
-
-![spinningproteingif](https://github.com/user-attachments/assets/c2cdf605-0c01-43c9-9aaa-c7c2893d7df7)
+![spinningprotNEWmain](https://github.com/user-attachments/assets/82777127-6aa2-4743-b835-9924bf59bf3a)
